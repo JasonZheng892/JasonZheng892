@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Jason Zheng, a current graduate student at Boston University for Data Science.
+
+I am interested in Data Science and Machine Learning.
+
+One of my recent projects involved building a Convolutional Neural Network (CNN) model to classify 5 groups of images. They were trained in Google Colab on a dataset with 22,500 images, which were augmented with Keras' ImageDataGenerator and trained with TensorFlow. We ended up with a test accuracy of 92.4% after extensive training on a VGG inspired architecture.
+
+In my free time, I play video games such as League of Legends and TFT. I also have experience as a varsity collegiate player in League.
 
 <!--
 **JasonZheng892/JasonZheng892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
